@@ -245,7 +245,10 @@ TO BE ADDED
 | OWL |  ✓ | ✓ | DPO | [Paper](https://arxiv.org/abs/2505.23885) | [Code](https://github.com/camel-ai/owl) |
 
 ## Sec4.8. Task: Other Tasks
-TO BE ADDED
+
+| Method | Task | Base LLM | Link | Resource |
+| --- | --- | --- | --- | --- |
+| Harness-Aware Training (HAT) | Live-streaming e-commerce digital-avatar agent | Qwen3.6-35B-A3B | [Paper](https://arxiv.org/abs/2608.15763) | [Project](https://sunyuhan19981208.github.io/Harness-Aware-Training/) |
 
 ## Sec5.1 Environments
 
