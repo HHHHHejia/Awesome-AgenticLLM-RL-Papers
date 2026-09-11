@@ -138,6 +138,7 @@ KL penalty corresponds to penalizing the KL divergence between the learned polic
 | DeepAnalyze | Outcome | DeepSeek-R1-Distill-Qwen3-8B | [Paper](https://arxiv.org/abs/2510.16872) | [Code](https://github.com/ruc-datalab/DeepAnalyze) |
 | Golubev et al. | Process | Qwen2.5-72B-Instruct | [Paper](https://arxiv.org/abs/2508.03501) | - |
 | SWEET-RL | Process | Llama-3.1-8B/70B-Instruct | [Paper](https://arxiv.org/abs/2503.15478) | [Code](https://github.com/facebookresearch/sweet_rl) |
+| Steer, Don't Solve | Process | Qwen3-4B / Qwen3-8B | [Paper](https://arxiv.org/abs/2606.21811) | [Code](https://github.com/shubhamrgandhi/critic-training) [Model](https://huggingface.co/code-critic-model) |
 
 ---
 
