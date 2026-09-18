@@ -21,6 +21,7 @@ This is the Official repo for the survey paper: The Landscape of Agentic Reinfor
 
 
 ## Sec2.7 Agentic RL: Algorithms
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 Clip corresponds to preventing the policy ratio from moving too far from 1 for ensuring stable updates.  
 KL penalty corresponds to penalizing the KL divergence between the learned policy and the reference policy for ensuring alignment.  
