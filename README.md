@@ -296,6 +296,7 @@ The agent capabilities are denoted by:
 | ELLM (Crafter variant) | ②, ① | Game | Visual | [Paper](https://proceedings.mlr.press/v202/du23f.html) | [Code](https://proceedings.mlr.press/v202/du23f.html) [Website](https://github.com/yuqingd/ellm) |
 | SMAC / SMAC-Exp | ⑤, ② | Game | Visual | [Paper](https://arxiv.org/abs/1902.04043) | [Code](https://github.com/oxwhirl/smac) |
 | Factorio | ②, ① | Game | Visual | [Paper](https://arxiv.org/abs/2503.09617) | [Code](https://github.com/JackHopkins/factorio-learning-environment) [Website](https://jackhopkins.github.io/factorio-learning-environment/) |
+| EC²-Bench (EC2-Bench) | ②, ③, ⑤ | Digital workspace, Edge-cloud collaboration | Text | [Paper](https://arxiv.org/abs/2610.17816) | [Code](https://github.com/OpenBMB/EC2-Bench) [Website](https://passionate11.github.io/ec2-bench-project-page/) |
 
 ## Sec5.2 Frameworks
 
